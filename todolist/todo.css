@@ -1,0 +1,32 @@
+#counter-div-el {
+  display: inline;
+}
+
+body {
+  background-color: lightseagreen;
+  width: 600px;
+}
+
+button {
+  margin: 5px;
+  background-color: rgb(10, 102, 139);
+  color: white;
+  font-weight: bold;
+  border-width: 1px;
+  padding: 2px 5px;
+  cursor: pointer;
+}
+
+p {
+  margin: 2px 0;
+}
+
+input {
+  width: 100px;
+  margin: 10px 6px;
+}
+
+button:hover {
+  background-color: lightseagreen;
+  color: grey;
+}
